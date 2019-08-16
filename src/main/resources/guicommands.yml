@@ -5,6 +5,9 @@
 #%t% - Time
 #%reason% - Punish reason
 
+#History
+HistoryCommand: "/history %target%"
+
 #Perm Mute
 PermMuteCommand: "/mute %target% %reason% -s"
 
