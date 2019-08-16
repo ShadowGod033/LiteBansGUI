@@ -31,6 +31,13 @@ ChatOffensesLore:
 
 #Other Punishments:
 
+#History:
+HistoryItem: "BOOK"
+HistoryLocation: 0
+HistoryName: "&a&lHistory"
+HistoryLore:
+  - 'Check to see if a player has been punished before '
+
 #Warning:
 WarningItem: "ANVIL"
 WarningLocation: 43
