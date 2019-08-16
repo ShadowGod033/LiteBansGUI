@@ -31,4 +31,5 @@ NameLength: "&cThis name is too long! You can only enter 16 characters!"
 #punish.severity3mute
 #punish.ipban
 #punish.ipmute
+#punish.history
 #=======================================================  
